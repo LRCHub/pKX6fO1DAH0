@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ERISAPFEL / REINCARNATE Ver",
+  "base_artist": "ELFENSJóN",
+  "createdAt": "2025-12-05T12:38:44.284446Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ERISAPFEL",
+      "artist": "ELFENSJóN",
+      "has_synced": true,
+      "path": "select/01_ERISAPFEL_ELFENSJóN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ERISAPFEL / REINCARNATE Ver",
+      "artist": "ELFENSJóN",
+      "has_synced": false,
+      "path": "select/pl_01_ERISAPFEL___REINCARNATE_Ver_ELFENSJóN.txt"
+    }
+  ]
+}
